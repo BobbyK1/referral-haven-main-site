@@ -21,7 +21,7 @@ export default function Page() {
 
                 <Text fontSize="lg" mt="5">We are a referral program based out of Northwest Indiana with the goal of offering excellent service and competetive splits to agents, seasoned or new, looking to transition out of their Real Estate career.</Text>
             
-                <Text fontSize="lg" mt="5">Our referral program is designed to reward agents for their hard work and dedication. We offer competitive splits that allow our agents to earn a significant income from their referral business. Additionally, we provide performance tracking, so agents can see exactly how their referral business is performing and make informed decisions about their future growth.</Text>
+                <Text fontSize="lg" mt="5">Our referral program is designed to reward agents for their hard work and dedication. We offer competitive splits that allow our agents to earn a significant income from their referral business.</Text>
             
                 <Heading as="h2" fontSize="4xl" mt="10">Who are we looking for?</Heading>
             
