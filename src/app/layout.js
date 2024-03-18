@@ -95,8 +95,8 @@ export default function RootLayout({ children }) {
 									<Text fontSize="xl" color="white">Important Links</Text>
 									<Divider borderColor="white" w="4rem" mb="6" />
 
-									<Text _hover={{ textDecor: "underline" }} fontSize="md" color="white" mb="3"><Link href="/">Terms of Service</Link></Text>
-									<Text _hover={{ textDecor: "underline" }} fontSize="md" color="white"><Link href="/">Privacy Policy</Link></Text>
+									<Text _hover={{ textDecor: "underline" }} fontSize="md" color="white" mb="3"><Link href="/terms-of-service">Terms of Service</Link></Text>
+									<Text _hover={{ textDecor: "underline" }} fontSize="md" color="white"><Link href="/privacy-policy">Privacy Policy</Link></Text>
 								</Box>
 							</Stack>
 						</Container>
