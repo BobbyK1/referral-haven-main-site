@@ -58,7 +58,7 @@ export default function Page() {
 
                         <Box borderWidth="thin" borderColor="blackAlpha.300" borderRadius="5" py="4" px="6">
                             <Stack direction="row" justify="space-between" alignItems="center">
-                                <Text fontSize="lg" fontWeight="semibold">1 Year Membership</Text>
+                                <Text fontSize="lg" fontWeight="semibold">1 Month Membership</Text>
                                 <Text fontSize="lg" color="blue.500">$20/mo</Text>
                             </Stack>
 

@@ -10,7 +10,7 @@ export default function GetStarted() {
             <Text fontSize="xl" textAlign="center" my="7">Wait no longer. Get started with Referral Haven today!</Text>
 
             <Center>
-                <Button as={Link} href="https://app.referralhaven.com/" variant="outline" rounded="full" colorScheme="blue">Get Started</Button>
+                <Button as={Link} href="https://app.referralhaven.com/sign-up" variant="outline" rounded="full" colorScheme="blue">Get Started</Button>
             </Center>
         </Box>
     )
